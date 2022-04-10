@@ -13,7 +13,7 @@ Using knowledge of the cloud ETL process, an AWS RDS database with tables in pgA
 - review_id_table
 - vine_table 
 
-## Determine Bias of Vine Reviews
+## Result to Determine Bias of Vine Reviews
 
 - Total Vine reviews 
 
@@ -39,10 +39,10 @@ Using knowledge of the cloud ETL process, an AWS RDS database with tables in pgA
 
 ![image_PercentStarNonPd.png](PercentStarNonPd.png)
 
-## 2.	Summary: 
+## 2.	Results Analysis Summary: 
 For this analysis, it was determined having a paid Vine review makes little difference in the percentage of 5-star reviews. The results show that the percent of five star reviews from the Vine program is 59%, while the non-vine five star reviews were 53.6%, making only about a 5% difference. However, the total amount of Vine reviews was low, only 22 compared to almost 27,0000 for the non-vine reviews total. This could make the Vine review dataset unrelable.  
 
-Additional analysis that can be done is to break down the shoe reviews by type of shoes.  This 
+Additional analysis that can be done is to break down the shoe reviews by type of shoes.  This can show if the paid data set is representitive of the non-paid data set for type of customers.  
 
 ![image_Grid2.png](Grid2.png)
 
